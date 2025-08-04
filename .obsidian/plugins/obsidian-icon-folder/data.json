@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiShell",
       "LiGitFork",
       "LiGithub"
     ],
@@ -32,5 +33,6 @@
     "useInternalPlugins": false
   },
   "github": "LiGithub",
-  "git": "LiGitFork"
+  "git": "LiGitFork",
+  "sh": "LiShell"
 }
