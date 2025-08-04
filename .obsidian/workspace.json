@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c07c4c2d71ba2878",
+            "id": "c2dbde0bb19e63cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sh/primer archivo sh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "primer archivo sh"
             }
           },
           {
-            "id": "df3a608295154835",
+            "id": "fa3475befbaefc9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/clonar y sincronizar.md",
+                "file": "sh/variables sh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clonar y sincronizar"
+              "title": "variables sh"
+            }
+          },
+          {
+            "id": "0fd95a329ed2ad97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sh/argumentos sh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "argumentos sh"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "sh/argumentos sh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de argumentos sh"
             }
           },
           {
@@ -197,6 +212,11 @@
   },
   "active": "d42e04a6ea9c79b5",
   "lastOpenFiles": [
+    "sh/variables sh.md",
+    "sh/argumentos sh.md",
+    "sh/primer archivo sh.md",
+    "sh/que es.md",
+    "README.md",
     "sh",
     "github/que es github.md",
     "github/clonar y sincronizar.md",

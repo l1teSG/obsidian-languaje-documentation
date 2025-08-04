@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-linter"
 ]
